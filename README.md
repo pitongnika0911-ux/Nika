@@ -1,3 +1,5 @@
-# My Project
+# My First Project
 Name: Nika
-Course: Bsit
+Course: BSIT
+School: Fellowship Baptist College
+
